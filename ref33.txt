@@ -1,0 +1,87 @@
+Maven – The Maven Community
+https://maven.apache.org/community.html
+Dec 1, 2015 - Maven, like any other opensource project, relies heavily on the efforts of the entire ... This is a quick guide outlining what members of the Maven ...
+Maven – Welcome to Apache Maven
+https://maven.apache.org/
+If you think that Maven could help your project, you can find out more information about in the "About Maven" section of the navigation. This includes an in-depth ...
+Maven – Introduction to the Build Lifecycle
+https://maven.apache.org/guides/.../introduction-to-the-lifecycle.html
+Maven is based around the central concept of a build lifecycle. What this means is that the process for building and distributing a particular artifact (project) is ...
+Maven – Maven in 5 Minutes
+https://maven.apache.org/guides/getting.../maven-in-five-minutes.html
+If you do not know how to do this, please ask someone at your office, school, etc or pay someone to explain this to you. The Maven mailing lists are not the best ...
+Maven – Introduction to the Dependency Mechanism
+https://maven.apache.org/.../introduction-to-dependency-mechanism.htm...
+Transitive dependencies are a new feature in Maven 2.0. This allows you to avoid needing to discover and specify the libraries that your own dependencies ...
+Maven – Maven Getting Started Guide
+https://maven.apache.org/guides/getting-started/
+This guide is intended as a reference for those working with Maven for the first time, but is also intended to serve as a cookbook with self-contained references ...
+Maven – Introduction
+https://maven.apache.org/what-is-maven.html
+Maven's primary goal is to allow a developer to comprehend the complete state of a development effort in the shortest period of time. In order to attain this goal ...
+Maven – Frequently Asked Technical Questions
+https://maven.apache.org/general.html
+How do I set up Maven so it will compile with a target and source JVM of my ... This or a similar warning is emitted by a plugin that processes plain text files but ...
+Maven – Guide to Testing Development Versions of Plugins
+https://maven.apache.org/guides/.../guide-testing-development-plugins.ht...
+Note: This is not recommended as an everyday or in production practice! ... Development versions of Maven plugins are periodically published to the repository: ...
+Apache Maven - Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/Apache_Maven
+Maven is built using a plugin-based architecture that allows it to make use of any application controllable through standard input. Theoretically, this would allow ...
+
+
+
+
+
+This Is Big Audio Dynamite - Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/This_Is_Big_Audio_Dynamite
+This Is Big Audio Dynamite was the debut album by Big Audio Dynamite, led by former Clash band member Mick Jones. It was released in 1985, and reached ...
+This is Big, Big, Big (by Mel's Desk): Storytime Song - YouTube
+Video for this is big▶ 0:50
+https://www.youtube.com/watch?v=vWDQunFhXic
+Sep 11, 2014 - Uploaded by Jbrary
+Thank you so much Mel for letting us share this song! Check out Mel's Desk for excellent storytime resources: ...
+Big Brother | Celebrity BB UK | News Forum Pictures Polls ...
+www.thisisbigbrother.com/
+This year Big Brother is hosting a spectacular that will captivate and delight viewers, as they witness brand new Housemates adapting to life under the glare of ...
+Weekly Storytime Songs | Mel's Desk
+melissa.depperfamily.net/blog/?page_id=378
+CLOSING ACTION RHYME: This Is Big I wrote this easy action rhyme & we do it every week. It's a big hit! This is big big big. Hold arms out to side. This is small ...
+This is going to be BIG...
+www.thisisgoingtobebig.com/
+Personal blog on startups, venture capital, entrepreneurship, etc. of Charlie O'Donnell of Brooklyn Bridge Ventures.
+This Is Big - Raz-Kids
+https://www.raz-kids.com/main/BookDetail/id/3870/from/quizroom/.../1
+This Is Big. Set B (fiction), High-Frequency Word. Reading A-Z's High-Frequency Word Books introduce the most commonly used words in printed English in an ...
+This Is Big: A Robo-Car Just Drove Across the Country - Wired
+www.wired.com/2015/04/delphi-autonomous-car-cross-country/
+Apr 3, 2015 - This amazing feat, by the automotive supplier Delphi, underscores the great leaps this technology has taken in recent years, and just how close ...
+This is big: Baltimore Innovation Week will culminate with ...
+technical.ly/baltimore/2015/08/17/baltimore-innovation-week-beta-city/
+Aug 17, 2015 - This is big: Baltimore Innovation Week will culminate with Beta City ... Let's collaborate on something bigger to bring more attention to what is ...lpha-13/                                      04-Aug-2011 08:31                   -
+1.0-alpha-15/                                      04-Aug-2011 08:31                   -
+1.0-beta-1/                                        04-Aug-2011 08:31                   -
+1.0.1/                                             04-Aug-2011 08:31                   -
+1.1/                                               04-Aug-2011 08:31                   -
+1.2/                                               04-Aug-2011 08:31                   -
+1.2.1/                                             04-Aug-2011 08:31                   -
+1.2.2/                                             04-Aug-2011 08:31                   -
+1.3/                                               04-Aug-2011 08:31                   -
+1.3.1/                                             04-Aug-2011 08:31                   -
+1.3.2/                                             04-Aug-2011 08:31                   -
+1.3.3/                                             04-Aug-2011 08:31                   -
+1.4/                                               04-Aug-2011 08:31                   -
+1.5/                                               01-Nov-2011 00:15                   -
+1.6/                                               18-Mar-2012 17:46                   -
+1.7/                                               01-Jun-2012 20:14                   -
+1.7.1/                                             30-Jun-2012 15:12                   -
+2.0/                                               06-Sep-2012 13:06                   -
+2.1/                                               19-May-2013 19:52                   -
+2.2/                                               28-Nov-2013 00:06                   -
+2.3/                                               01-May-2014 23:26                   -
+2.4/                                               11-Jun-2015 21:44                   -
+2.4.1/                                             14-Jul-2015 17:19                   -
+2.4.2/                                             28-Oct-2015 21:22                   -
+maven-metadata.xml                                 28-Oct-2015 21:22                1086
+maven-metadata.xml.md5                             28-Oct-2015 21:22                  32
+maven-metadata.xml.sha1                            28-Oct-2015 21:22                  40
