@@ -1,0 +1,6 @@
+deded
+Git is a version control system.
+Git is free software.
+it's my change1
+my change2
+change name to re1move; git can track name change if content is not change; but if content change cannot track 
